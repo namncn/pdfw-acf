@@ -1,0 +1,21 @@
+{
+    "name": "namncn/pdfw-acf",
+    "description": "PDFW ACFP",
+    "type": "library",
+    "license": "aaa",
+    "authors": [
+        {
+            "name": "PDVN Team",
+            "email": "namtruongncn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.9",
+    },
+    "autoload": {
+        "files": [
+            "acf.php"
+        ]
+    }
+}
