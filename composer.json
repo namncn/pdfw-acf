@@ -2,7 +2,7 @@
     "name": "namncn/pdfw-acf",
     "description": "PDFW ACFP",
     "type": "library",
-    "license": "aaa",
+    "license": "GPLv2 or later",
     "authors": [
         {
             "name": "PDVN Team",
